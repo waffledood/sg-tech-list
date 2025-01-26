@@ -168,6 +168,9 @@ Last updated: Nov 7, 2024
 - ExpressVPN 🔴 [Layoff 200 in July 2023](https://sg.news.yahoo.com/tech-layoffs-cybersecurity-firm-behind-160913325.html)
 - VMware 🔴 [Mass layoffs Nov 2023 - August 2024](https://techwireasia.com/12/2023/what-happens-next-with-vmware-after-layoffs-and-redundancy/)
 - Zoom 🔴
+- Motional
+  Backend roles look focused on AI/ML/robotics-related domains (SLAM, mapping, etc.)
+  Frontend roles look focused on mapping & data visualization
 
 ---
 

@@ -8,13 +8,13 @@ Last updated: Nov 7, 2024
 
 > **Note** Banks and non-tech companies are intentionally omitted from the list.
 
-> **Note** 
+> **Note**
 > 😭 Offer Rescinded (2024/2023)
-> 
+>
 > 🔴 Layoff (2024/2023)
-> 
+>
 > 🟠 Layoff (2022)
-> 
+>
 > 🟢 Actively Hiring
 
 ## FAANG
@@ -126,6 +126,7 @@ Last updated: Nov 7, 2024
 - NLB 🟢
 - STB 🟢
 - MAS 🟢
+
 ### Defence
 
 - DSTA 🟢
